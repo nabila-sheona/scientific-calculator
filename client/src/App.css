@@ -1,0 +1,8 @@
+/* src/App.css */
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #b3e5fc; /* Changed background shade to a darker pastel blue */
+}
